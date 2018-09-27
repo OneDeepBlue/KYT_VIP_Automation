@@ -1,0 +1,11 @@
+[2018-08-03 22:09:41,252 - __console line:  81] - INFO: 不需要执行的模块：[]
+[2018-08-03 22:09:41,280 - __console line:  81] - INFO: 不需要执行的用例：[u'test2_login_account_error']
+[2018-08-03 22:09:58,232 - __console line:  81] - INFO: 执行测试:test1_login_password_error
+[2018-08-03 22:10:02,832 - __console line:  81] - INFO: 执行测试:test1_login_password_error结束
+[2018-08-03 22:10:24,489 - __console line:  81] - INFO: 执行测试:test1_add_invoice
+[2018-08-03 22:11:12,960 - __console line:  81] - INFO: 执行测试：test2_del_invoice
+[2018-08-03 22:12:21,536 - __console line:  81] - INFO: 执行测试:test3_query_invoice
+[2018-08-03 22:12:46,312 - __console line:  81] - INFO: 执行测试:test3_query_invoice结束
+[2018-08-03 22:13:14,239 - __console line:  81] - INFO: 执行测试:test4_create_sli
+[2018-08-03 22:13:42,105 - __console line:  81] - INFO: 执行测试:test4_create_sli结束
+[2018-08-03 22:13:58,371 - __console line:  81] - INFO: 执行测试:test1_submit_sli

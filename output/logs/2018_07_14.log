@@ -1,0 +1,49 @@
+[2018-07-14 13:05:54,078 - __console line:  85] - ERROR: 截图成功
+[2018-07-14 14:16:38,082 - __console line:  79] - INFO: 截图失败Alert Text: None
+Message: unexpected alert open: {Alert text : 账号错误！}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+[2018-07-14 14:17:50,394 - __console line:  79] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 账号错误！}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+[2018-07-14 14:21:04,757 - __console line:  79] - INFO: 截图成功
+[2018-07-14 14:39:31,084 - __console line:  78] - INFO: 截图成功
+[2018-07-14 14:40:00,767 - __console line:  78] - INFO: 截图成功
+[2018-07-14 14:47:17,253 - __console line:  78] - INFO: 执行测试:test1_login_password_error
+[2018-07-14 14:47:18,176 - __console line:  78] - INFO: 执行测试:test1_login_password_error结束
+[2018-07-14 14:47:32,950 - __console line:  78] - INFO: 执行测试:test2_login_account_error
+[2018-07-14 14:47:33,690 - __console line:  78] - INFO: 截图成功
+[2018-07-14 14:47:34,263 - __console line:  78] - INFO: 执行测试:test2_login_account_error结束
+[2018-07-14 15:09:51,019 - __console line:  78] - INFO: 执行测试:test2_login_account_error
+[2018-07-14 15:09:52,003 - __console line:  78] - INFO: 执行测试:test2_login_account_error结束
+[2018-07-14 15:11:26,904 - __console line:  78] - INFO: 执行测试:test2_login_account_error
+[2018-07-14 15:11:27,808 - __console line:  78] - INFO: 执行测试:test2_login_account_error结束
+[2018-07-14 15:20:52,259 - __console line:  78] - INFO: 1111
+[2018-07-14 15:21:54,505 - __console line:  78] - INFO: 执行测试:test1_login_password_error
+[2018-07-14 15:21:55,430 - __console line:  78] - INFO: 执行测试:test1_login_password_error结束
+[2018-07-14 15:22:19,801 - __console line:  78] - INFO: 执行测试:test1_login_password_error
+[2018-07-14 15:24:48,513 - __console line:  78] - INFO: 执行测试:test1_login_password_error
+[2018-07-14 15:24:49,437 - __console line:  78] - INFO: 执行测试:test1_login_password_error结束
+[2018-07-14 15:26:08,798 - __console line:  78] - INFO: 执行测试:test1_login_password_error
+[2018-07-14 15:26:09,690 - __console line:  78] - INFO: 执行测试:test1_login_password_error结束
+[2018-07-14 15:26:41,148 - __console line:  78] - INFO: 执行测试:test1_login_password_error
+[2018-07-14 15:26:42,028 - __console line:  78] - INFO: 执行测试:test1_login_password_error结束
+[2018-07-14 17:53:49,404 - __console line:  78] - INFO: 执行测试:test1_add_invoice
+[2018-07-14 17:56:50,056 - __console line:  78] - INFO: 执行测试:test1_add_invoice
+[2018-07-14 17:58:33,703 - __console line:  78] - INFO: 执行测试:test1_add_invoice
+[2018-07-14 18:37:49,565 - __console line:  78] - INFO: 执行测试:test1_add_invoice
+[2018-07-14 18:39:33,214 - __console line:  78] - INFO: 执行测试:test1_add_invoice
+[2018-07-14 18:41:42,756 - __console line:  78] - INFO: 执行测试:test1_add_invoice
+[2018-07-14 18:50:48,068 - __console line:  78] - INFO: 执行测试:test1_add_invoice
+[2018-07-14 18:51:34,931 - __console line:  78] - INFO: 执行测试:test1_add_invoice
+[2018-07-14 18:57:29,415 - __console line:  78] - INFO: 执行测试:test1_add_invoice
+[2018-07-14 19:00:09,278 - __console line:  78] - INFO: 执行测试:test1_add_invoice
+[2018-07-14 19:00:24,180 - __console line:  78] - INFO: 截图成功
+[2018-07-14 19:00:24,993 - __console line:  78] - INFO: 执行测试:test1_add_invoice结束
+[2018-07-14 19:01:14,240 - __console line:  78] - INFO: 执行测试:test1_add_invoice
+[2018-07-14 19:18:16,082 - __console line:  78] - INFO: 执行测试:test1_add_invoice
+[2018-07-14 19:21:14,743 - __console line:  78] - INFO: 执行测试:test1_add_invoice
+[2018-07-14 19:22:02,519 - __console line:  78] - INFO: 执行测试:test1_add_invoice

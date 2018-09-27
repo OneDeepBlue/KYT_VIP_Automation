@@ -1,0 +1,14 @@
+[2018-09-27 16:31:25,142 - __console line:  81] - INFO: 不需要执行的模块：[]
+[2018-09-27 16:31:25,188 - __console line:  81] - INFO: 不需要执行的用例：[u'test2_login_account_error']
+[2018-09-27 16:31:57,285 - __console line:  81] - INFO: 执行测试:test1_login_password_error
+[2018-09-27 16:31:59,015 - __console line:  81] - INFO: 执行测试:test1_login_password_error结束
+[2018-09-27 16:32:17,053 - __console line:  81] - INFO: 执行测试:test1_add_invoice
+[2018-09-27 16:32:30,253 - __console line:  81] - INFO: 截图成功，存放路径"C:\Users\Administrator\Desktop\python\output\screenshot\\2018-09-27_163228.png"
+[2018-09-27 16:32:33,522 - __console line:  81] - INFO: 执行测试：test1_add_invoice结束
+[2018-09-27 16:32:51,253 - __console line:  81] - INFO: 执行测试：test2_del_invoice
+[2018-09-27 16:33:02,773 - __console line:  81] - INFO: 执行测试：test2_del_invoice结束
+[2018-09-27 16:33:18,470 - __console line:  81] - INFO: 执行测试:test3_query_invoice
+[2018-09-27 16:33:29,354 - __console line:  81] - INFO: 执行测试:test3_query_invoice结束
+[2018-09-27 16:33:43,575 - __console line:  81] - INFO: 执行测试:test4_create_sli
+[2018-09-27 16:34:04,947 - __console line:  81] - INFO: 执行测试:test4_create_sli结束
+[2018-09-27 16:34:25,311 - __console line:  81] - INFO: 执行测试:test1_submit_sli

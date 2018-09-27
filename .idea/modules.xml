@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EDU/.idea/EDU.iml" filepath="$PROJECT_DIR$/../EDU/.idea/EDU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KYT_APP_Automation/.idea/KYT_APP_Automation.iml" filepath="$PROJECT_DIR$/../KYT_APP_Automation/.idea/KYT_APP_Automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/KYT_VIP_Automation.iml" filepath="$PROJECT_DIR$/.idea/KYT_VIP_Automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestAutomation/.idea/TestAutomation.iml" filepath="$PROJECT_DIR$/../TestAutomation/.idea/TestAutomation.iml" />
+    </modules>
+  </component>
+</project>
