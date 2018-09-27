@@ -20,13 +20,14 @@
     runtest.py:
         测试执行的入口程序
 
-====================================================================
-requirements.txt 项目的依赖清单说明
 
+*******requirements.txt 项目的依赖清单说******
 导出依赖清单的方法（可能会导出不全）：
 	这里需要使用到的工具叫pipreqs,先安装: pip install pipreqs 
 	装好之后cmd到项目路径下: pipreqs ./
 	然后输入：type requirements.txt
+自动安装依赖包：
 	使用requirements.txt自动安装所有依赖包
-	一条命令全搞定：pip install -r requirements.txt
-====================================================================
+	在requirements文件目录下打开cmd窗口，
+	执行命令：pip install -r requirements.txt
+
